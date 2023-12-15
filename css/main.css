@@ -59,14 +59,45 @@ p.success.feeback {
 div#content {
     background-color: azure;
     padding: 20px */
-div p{ 
-    color: blueviolet;
-}
-a [href {
-    background-color: aquamarine;
-    color: aliceblue;
+    /* p.error {
+       color: red; 
+    }
+ p.success{
+    color: rgb(60, 182, 60);
+ }
+ p.success.feedback{
+    border: 1px dashed green;
+ }
+#content {
+background-color: white;
+padding: 20px;
+} */
+/* div .error{
+color: red;
+} */
+/* a[href="css/main.css"] {
+    background-color: green;
+    color: white;
     text-decoration: none;
     font-weight: bold;
     text-transform: uppercase;
-
-}]
+}
+a[href=" css/styles.css"] {
+    color: white;
+background: red;
+border: 2px solid blue;
+} */
+div {
+    color: lightcoral;
+    border: 1px solid grey;
+    margin: 40px;
+    font-weight: bold;
+  } 
+  div p{
+    border: inherit;
+    margin: inherit;
+    color: crimson;
+  }
+p
+    color: orange;
+    
